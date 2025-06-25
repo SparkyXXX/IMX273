@@ -1,0 +1,18 @@
+IMX273-287 Applicaation Note List
+							Oct. 10th  2017
+
+
+Function        	       			Document Name
+
+AdditionalFunctionOfSaturation			IMX287_AppNote_AdditionalFunctionOfSaturation_E_Rev1.0.pdf
+Multi_Frame_Set	Output_Mode        		IMX273_287_AppNote_Multi_Frame_Set_Output_Mode_E_Rev1.0.pdf
+Multi_Exposure_Trigger				IMX273_287_AppNote_Multi_Exposure_Trigger_Mode_E_Rev1.0.pdf
+Driving_Low_Power_Consumption			IMX273_287_AppNote_Driving_Low_Power_Consumption_E_Rev1.0.pdf
+SimpleThermometer				IMX273_287_AppNote_SimpleThermometer_E_Rev1.0.pdf
+Gradation_Compression				IMX273_287_AppNote_Gradation_Compression_E_Rev1.0.pdf
+BlackLevelAutoAdjustOff         		IMX273_287_AppNote_BlackLevelAutoAdjustOff_E_Rev1.0.pdf
+Multi_Frame_ROI	        			IMX273_287_AppNote_Multi_Frame_ROI_Mode_E_Rev1.0.pdf
+Short_Exposure_Mode             		IMX273_287_AppNote_Short_Exposure_Mode_E_Rev1.0.pdf
+AdditionalFunctionOfSyncronizingSensors		IMX273_287_AppNote_AdditionalFunctionOfSyncronizingSensors_E_Rev1.0.pdf
+
+             IMX273 have not the function of AdditionalFunctionOfSaturation.
